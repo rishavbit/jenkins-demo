@@ -1,2 +1,2 @@
 # jenkins-demo
-this project is for jenkins assignment 1
+This project is for Devops assignment ( jenkins assignment 1)
